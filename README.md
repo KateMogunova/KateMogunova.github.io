@@ -1,5 +1,5 @@
 # KateMogunova.github.io
 
-Telegram Game Bible Buttle
+Telegram Game Bible Battles
 
 http://katty.mediaforgood.ru
