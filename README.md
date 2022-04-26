@@ -1,5 +1,2 @@
-# KateMogunova.github.io
+Здесь содержится информация для познания SQL
 
-Telegram Game Bible Battles
-
-http://katty.mediaforgood.ru
